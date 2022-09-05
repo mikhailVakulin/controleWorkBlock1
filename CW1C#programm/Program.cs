@@ -1,11 +1,13 @@
-﻿string[] array = new string[3]; // создаем новый массив на три элемента
-System.Console.WriteLine("Введите первую строку-");
-array[0] = Console.ReadLine();
-System.Console.WriteLine("Введите вторую строку-");
-array[1] = Console.ReadLine();
-System.Console.WriteLine("Введите третью строку-");
-array[2] = Console.ReadLine();
-System.Console.WriteLine(string.Join(", ", array)); // выводим на печать поллучивщийся массив, для наглядности
+﻿System.Console.WriteLine("Введите количество элдементов массива-");
+int size = Convert.ToInt32(Console.ReadLine());
+
+string[] array = new string[size]; // создаем массив с которым будем работать
+for (int k = 0; k < size; k++)   // заполняем массив с клавиатуры
+{
+    System.Console.WriteLine( $"Введите {k+1}-й элемент массива");
+    array[k] = Console.ReadLine();
+}
+
 int i = 0; // счетчик для перебора массива
 int j = 0; // счетчик кол-ва элементов для новго массива
 
