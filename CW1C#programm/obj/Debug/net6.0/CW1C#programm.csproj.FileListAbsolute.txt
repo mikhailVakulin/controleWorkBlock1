@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\bin\Debug\net6.0\CW1C#programm.exe
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\bin\Debug\net6.0\CW1C#programm.deps.json
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\bin\Debug\net6.0\CW1C#programm.runtimeconfig.json
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\bin\Debug\net6.0\CW1C#programm.dll
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\bin\Debug\net6.0\CW1C#programm.pdb
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\obj\Debug\net6.0\CW1C#programm.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\obj\Debug\net6.0\CW1C#programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\obj\Debug\net6.0\CW1C#programm.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\obj\Debug\net6.0\CW1C#programm.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\obj\Debug\net6.0\CW1C#programm.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\obj\Debug\net6.0\CW1C#programm.dll
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\obj\Debug\net6.0\refint\CW1C#programm.dll
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\obj\Debug\net6.0\CW1C#programm.pdb
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\obj\Debug\net6.0\CW1C#programm.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\CW1\CW1C#programm\obj\Debug\net6.0\ref\CW1C#programm.dll
